@@ -1,0 +1,28 @@
+# 💬 Simple Chat Application
+
+A lightweight real-time chat app built using **Express.js**, **Socket.io**, and **vanilla HTML/CSS/JS** — no database, just pure frontend-backend communication.
+
+---
+
+## 🚀 Features
+
+- 🔄 Real-time two-way messaging with **Socket.io**
+- 🖥️ Simple and clean chat UI using **HTML/CSS**
+- 🧠 Built without any database — perfect for learning sockets and Express basics
+
+---
+
+## 📁 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js, Socket.io
+
+---
+
+## 🛠️ How to Run Locally
+
+```bash
+git clone https://github.com/vidisha162/chat_application.git
+cd chat_application
+npm install
+node index.js
